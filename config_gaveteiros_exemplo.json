@@ -1,0 +1,21 @@
+{
+    "gaveteiro_atual": 1,
+    "gaveteiros": [
+        {
+            "id": 1,
+            "nome": "Gaveteiro Principal",
+            "host": "127.0.0.1",
+            "user": "root",
+            "password": "",
+            "database": "gaveteiro"
+        },
+        {
+            "id": 2,
+            "nome": "Componentes Especiais",
+            "host": "127.0.0.1",
+            "user": "root",
+            "password": "",
+            "database": "gaveteiro_especiais"
+        }
+    ]
+}
